@@ -1,1 +1,1 @@
-# cloudformation-77
+# cloudformation-77 template
